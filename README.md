@@ -1,4 +1,7 @@
-## Hi there 👋
+## Waaah, a visitor! 👋  
+<img src="https://media.tenor.com/PGxVhRYylGgAAAAd/flcl.gif" width="200"/>
+
+
 
 <!--
 **Ryyan-Choudhary/Ryyan-Choudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
