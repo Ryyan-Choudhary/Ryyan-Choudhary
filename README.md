@@ -1,6 +1,5 @@
 ## Waaah, a visitor! 👋  
 <p align="center">
-  <strong>## Waaah, a visitor! 👋</strong><br>
   <img src="https://media1.tenor.com/m/TSPV5XsTIssAAAAC/flcl.gif" width="500"/>
 </p>
 
