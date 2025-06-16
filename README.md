@@ -65,7 +65,7 @@
 
 <div align="center">
   <h1>📡 Find Me?</h1>
-   <img src="https://media.tenor.com/BLDC_hsS_t8AAAAC/turn-fish.gif" width="400"/>
+   <img src="https://media1.tenor.com/m/JO9fTOekW3kAAAAd/turn-fish.gif" width="400"/>
 
   <a href="https://www.linkedin.com/in/ryyanch/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
