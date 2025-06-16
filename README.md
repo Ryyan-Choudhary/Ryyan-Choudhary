@@ -1,7 +1,8 @@
-## Waaah, a visitor! 👋  
 <p align="center">
+  <h2>Waaah, a visitor! 👋</h2>
   <img src="https://media1.tenor.com/m/TSPV5XsTIssAAAAC/flcl.gif" width="500"/>
 </p>
+
 
 
 
