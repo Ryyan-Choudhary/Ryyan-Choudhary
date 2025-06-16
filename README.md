@@ -65,10 +65,6 @@
 
 <div align="center">
   <h1>📡 Find Me?</h1>
-</div>
-
-<div align="center">
-  <h1>📡 Find Me?</h1>
 
   <a href="https://https://github.com/Ryyan-Choudhary" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
