@@ -1,10 +1,3 @@
-<div align="center">
-
-## Waaah, a visitor! 👋
-
-<img src="https://media1.tenor.com/m/TSPV5XsTIssAAAAC/flcl.gif" width="500"/>
-
-</div>
 
 ## Waaah, a visitor! 👋  
 <p align="center">
