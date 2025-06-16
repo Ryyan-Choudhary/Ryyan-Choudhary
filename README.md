@@ -14,7 +14,7 @@
   <ul>
     <li>🎓 Software Engineering student at FAST NUCES Lahore</li>
     <li>🌱 Currently diving into React.js and modern web development</li>
-    <li>🧠 I obsess over elegant code, smooth UI experiences, and scalable architecture — always aiming for that perfect blend of form and function.</li>
+    <li>🧠 I obsess over neat code and smooth UI(sometimes) — always aiming for that perfect blend of form and function.</li>
     <li>✨ Always eager to learn and take on new challenges</li>
   </ul>
 </div>
