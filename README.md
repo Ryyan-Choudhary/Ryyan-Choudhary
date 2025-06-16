@@ -6,6 +6,22 @@
 
 </div>
 
+## Waaah, a visitor! 👋  
+<p align="center">
+  <img src="https://media1.tenor.com/m/TSPV5XsTIssAAAAC/flcl.gif" width="500"/>
+</p>
+
+<div align="center">
+
+### 👨🏼‍🎓 Who Am I?
+
+- 🎓 Software Engineering student at FAST NUCES Lahore
+- 🌱 Currently diving into React.js and modern web development
+- 🧠 I obsess over elegant code, smooth UI experiences, and scalable architecture — always aiming for that perfect blend of form and function.
+- ✨ Always eager to learn and take on new challenges
+
+</div>
+
 
 
 
