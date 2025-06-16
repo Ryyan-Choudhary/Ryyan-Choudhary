@@ -1,5 +1,5 @@
 <div align="center">
-  ### Waaah, a visitor! 👋  
+  <h1>### Waaah, a visitor! 👋</h1>
 </div>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  ### 👨🏼‍🎓 Who Am I?
+  <h1>### 👨🏼‍🎓 Who Am I?</h1>
 </div>
 
 <div align="left">
