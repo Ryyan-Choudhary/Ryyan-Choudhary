@@ -7,11 +7,12 @@
 <div align="center">
 
 ### 👨🏼‍🎓 Who Am I?
-
+  <div align="left">
 - 🎓 Software Engineering student at FAST NUCES Lahore
 - 🌱 Currently diving into React.js and modern web development
 - 🧠 I obsess over elegant code, smooth UI experiences, and scalable architecture — always aiming for that perfect blend of form and function.
 - ✨ Always eager to learn and take on new challenges
+  </div>
 
 </div>
 
