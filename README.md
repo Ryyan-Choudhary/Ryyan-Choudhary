@@ -79,11 +79,11 @@
 <div align="center">
   <h1>📊 GitHub Stats</h1>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ryyanch&show_icons=true&theme=radical" alt="ryyanch's GitHub stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryyan-Choudhary&show_icons=true&theme=radical" alt="ryyanch's GitHub stats" height="200"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ryyanch&theme=radical" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ryyan-Choudhary&theme=radical" alt="GitHub Streak" height="200"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryyanch&layout=compact&theme=radical" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryyan-Choudhary&layout=compact&theme=radical" alt="Top Languages" height="200"/>
 </div>
 
 
