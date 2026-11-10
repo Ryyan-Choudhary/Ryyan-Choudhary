@@ -20,6 +20,17 @@
 </div>
 
 <div align="center">
+  <h1>🚀 Things I've Built</h1>
+</div>
+
+| Project | What it is | Built with |
+|---|---|---|
+| 💠 **[WF-PriceTracker](https://github.com/Ryyan-Choudhary/WF-PriceTracker)** | A desktop companion that prices your Warframe inventory by **OCR-ing your screen** and pulling live prices from warframe.market. Doesn't touch game files or memory. Multi-frame voting cleans up misreads, labels are drawn right over your items, and the whole thing runs on hotkeys from the system tray. | Python · Tesseract / EasyOCR · RapidFuzz · Tkinter |
+| 🔫 **[Up in Arms](https://github.com/Ryyan-Choudhary/OneButtonSubmission)** · [▶ Play it](https://ryyan.itch.io/upinarms) | A **One Button Jam** entry. You *are* Bond's gun, and you get around with recoil alone. It's a physics platformer with a bullet-time aim mechanic: ten levels, one key. | Unity · C# |
+| 🎨 **[Collabra](https://github.com/Ryyan-Choudhary/Collabra)** | A real-time collaborative whiteboard with live multi-user canvases, edit locking, owner/editor/viewer roles, multi-page projects, and Google Drive auto-sync. | React · Node.js · Socket.io · Fabric.js |
+| 📈 **[SmartSales](https://github.com/Ryyan-Choudhary/SmartSales)** | An AI-powered sales platform: a JS web app with a Python ML microservice behind it for predictions and insights. | React · Node.js · FastAPI · PyTorch |
+
+<div align="center">
 
 <h1>🧰 Tech Stack</h1>
 
